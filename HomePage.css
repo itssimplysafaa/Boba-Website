@@ -12,3 +12,23 @@ body{
 	color: violet;
 	background-image: url(https://media.istockphoto.com/vectors/seamless-pattern-bubble-tea-vector-id1177450328?k=20&m=1177450328&s=612x612&w=0&h=Y2HRebOfX0oilswdlr_ga-VxkZK7tcwk4gnMFQEO178=)
 }
+
+.mainnav {
+	background-color: #2F8478;
+	overflow: hidden;
+}
+.mainnav text {
+	float: middle;
+	color : fuchsia;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 17px;
+}
+.mainnav text:hover {
+	background-color: #2BB8A5;
+	color: fuchsia;
+}
+.mainnav window {
+	background-color:#04AA6D;
+	color: white;
+}
