@@ -1,4 +1,4 @@
-
+<style>
 h1{
 	font-family: Didot;
 	color: fuchsia;
@@ -7,7 +7,7 @@ h1{
 
 
 
-body{
+body {
 	font-family: Didot;
 	color: black;
 	background: url(bobaback.png);
@@ -25,12 +25,12 @@ body{
 	font-size: 30px;
 }
 .mainnav text:hover {
-	background-color: #2BB8A5;
+	
 	color: fuchsia;
 }
 .mainnav window {
-	background-color: #2BB8A5;
+	
 	color: fuchsia;
 }
 
-
+</style>
