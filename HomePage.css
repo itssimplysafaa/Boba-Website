@@ -18,18 +18,18 @@ body {
 	overflow: hidden;
 }
 .mainnav text {
-	float: left;
+	float: none;
 	color : fuchsia;
 	text-align: center;
-	padding: 18px 18px;
-	font-size: 30px;
+	padding: 18px 20px;
+	font-size: 40px;
 }
 .mainnav text:hover {
-	
+	background-color: #2F8478;
 	color: fuchsia;
 }
 .mainnav window {
-	
+	background-color: #2F8478;
 	color: fuchsia;
 }
 
