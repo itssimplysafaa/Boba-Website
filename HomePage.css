@@ -22,15 +22,13 @@ body{
 	float: left;
 	color : fuchsia;
 	text-align: center;
-	padding: 10px 16px;
-	font-size: 20px;
+	padding: 14px 18px;
+	font-size: 30px;
 }
 .mainnav text:hover {
 	background-color: #2BB8A5;
 	color: fuchsia;
 }
-.mainnav window {
-	background-color:#04AA6D;
-	color: white;
-}
+
+
 </style>
