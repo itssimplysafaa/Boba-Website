@@ -21,9 +21,6 @@ body {
 .mainnav {
 	background-color: #83c5be;
 	overflow: hidden;
-	margin-left: auto;
-	margin-right:auto;
-	width:50%;
 }
 .mainnav text {
 	float: none;
