@@ -14,7 +14,7 @@ body {
 }
 
 .mainnav {
-	background-color: #2F8478;
+	background-color: #83c5be;
 	overflow: hidden;
 }
 .mainnav text {
@@ -25,11 +25,11 @@ body {
 	font-size: 40px;
 }
 .mainnav text:hover {
-	background-color: #2F8478;
+	background-color: #83c5be;
 	color: fuchsia;
 }
 .mainnav window {
-	background-color: #2F8478;
+	background-color: #83c5be;
 	color: fuchsia;
 }
 
